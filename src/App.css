@@ -18,8 +18,8 @@ body {
   font-family: var(--font-brand-sans);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #f3f2ee;
-  color: #171817;
+  background: #20211f;
+  color: #e8e5dc;
   overflow-x: hidden;
 }
 
@@ -31,11 +31,11 @@ body {
 .brand-home {
   font-family: var(--font-brand-sans);
   background:
-    linear-gradient(rgba(23, 24, 23, 0.045) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(23, 24, 23, 0.045) 1px, transparent 1px),
-    #f3f2ee;
+    linear-gradient(rgba(232, 229, 220, 0.055) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(232, 229, 220, 0.055) 1px, transparent 1px),
+    #20211f;
   background-size: 44px 44px;
-  color: #171817;
+  color: #e8e5dc;
 }
 
 .brand-hero {
@@ -121,6 +121,7 @@ body {
   line-height: 1.06;
   margin-bottom: 1.6rem;
   text-transform: none;
+  overflow-wrap: anywhere;
 }
 
 .App:lang(zh) .brand-home {
@@ -180,7 +181,8 @@ body {
   font-size: clamp(1rem, 1.45vw, 1.24rem);
   line-height: 1.9;
   font-weight: 300;
-  color: rgba(255, 255, 255, 0.88);
+  color: rgba(255, 255, 255, 0.9);
+  overflow-wrap: break-word;
 }
 
 .brand-hero-specs {
@@ -209,8 +211,9 @@ body {
 
 .brand-product-view {
   padding: clamp(3rem, 6vw, 5.5rem) clamp(1.25rem, 5vw, 5rem);
-  background: #f8f8f5;
+  background: #e9e6dc;
   border-bottom: 1px solid rgba(23, 24, 23, 0.3);
+  color: #171817;
 }
 
 .product-view-label {
@@ -290,7 +293,7 @@ body {
   max-width: 1320px;
   margin: 0 auto 3.4rem;
   align-items: end;
-  border-top: 1px solid rgba(23, 24, 23, 0.32);
+  border-top: 1px solid rgba(232, 229, 220, 0.28);
   padding-top: 1.25rem;
 }
 
@@ -306,15 +309,15 @@ body {
   margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  border-top: 1px solid rgba(23, 24, 23, 0.34);
-  border-left: 1px solid rgba(23, 24, 23, 0.34);
+  border-top: 1px solid rgba(232, 229, 220, 0.24);
+  border-left: 1px solid rgba(232, 229, 220, 0.24);
 }
 
 .category-tile {
   min-width: 0;
-  border-right: 1px solid rgba(23, 24, 23, 0.34);
-  border-bottom: 1px solid rgba(23, 24, 23, 0.34);
-  background: rgba(243, 242, 238, 0.86);
+  border-right: 1px solid rgba(232, 229, 220, 0.24);
+  border-bottom: 1px solid rgba(232, 229, 220, 0.24);
+  background: rgba(31, 32, 30, 0.92);
 }
 
 .category-tile img {
@@ -331,7 +334,7 @@ body {
 .category-tile span {
   display: block;
   margin-bottom: 1.15rem;
-  color: #7d2f1d;
+  color: #c48365;
   font-family: var(--font-brand-mono);
   font-size: 0.78rem;
 }
@@ -346,7 +349,7 @@ body {
 .category-tile strong {
   display: block;
   margin-bottom: 1.05rem;
-  color: #4d514d;
+  color: #b8b2a6;
   font-family: var(--font-brand-mono);
   font-size: 0.74rem;
   font-weight: 500;
@@ -354,7 +357,7 @@ body {
 
 .category-tile p {
   max-width: 18rem;
-  color: #555b55;
+  color: #d6d0c4;
   font-weight: 300;
   line-height: 1.65;
 }
@@ -365,13 +368,13 @@ body {
   gap: clamp(2rem, 6vw, 6rem);
   align-items: start;
   background:
-    linear-gradient(rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0.72)),
-    linear-gradient(rgba(23, 24, 23, 0.06) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(23, 24, 23, 0.06) 1px, transparent 1px),
-    #d9dad5;
+    linear-gradient(rgba(31, 32, 30, 0.88), rgba(31, 32, 30, 0.88)),
+    linear-gradient(rgba(232, 229, 220, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(232, 229, 220, 0.06) 1px, transparent 1px),
+    #151614;
   background-size: auto, 36px 36px, 36px 36px;
-  border-top: 1px solid rgba(23, 24, 23, 0.34);
-  border-bottom: 1px solid rgba(23, 24, 23, 0.34);
+  border-top: 1px solid rgba(232, 229, 220, 0.22);
+  border-bottom: 1px solid rgba(232, 229, 220, 0.22);
 }
 
 .lifestyle-copy {
@@ -383,7 +386,7 @@ body {
 .lifestyle-copy p:last-child,
 .philosophy-copy p {
   margin-top: 1.6rem;
-  color: #4d514d;
+  color: #d6d0c4;
   line-height: 1.95;
   font-size: 1rem;
   font-weight: 300;
@@ -414,7 +417,7 @@ body {
   gap: clamp(2rem, 6vw, 6rem);
   align-items: center;
   padding: clamp(5rem, 9vw, 9rem) clamp(1.25rem, 5vw, 5rem);
-  background: #f8f8f5;
+  background: #1a1b19;
 }
 
 .philosophy-image img {
@@ -438,9 +441,9 @@ body {
 }
 
 .philosophy-points span {
-  border: 1px solid rgba(23, 24, 23, 0.34);
+  border: 1px solid rgba(232, 229, 220, 0.28);
   padding: 0.7rem 0.95rem;
-  color: #303330;
+  color: #e8e5dc;
   font-family: var(--font-brand-mono);
   font-size: 0.82rem;
   font-weight: 400;
@@ -1058,16 +1061,39 @@ body {
   .brand-hero-copy {
     width: calc(100% - 2rem);
     margin: 0 1rem 3.4rem;
+    max-width: calc(100% - 2rem);
   }
 
   .brand-hero-copy h1 {
-    font-size: clamp(3rem, 16vw, 4.6rem);
+    max-width: 100%;
+    font-size: clamp(2.55rem, 12.5vw, 3.8rem);
+    line-height: 1.08;
+    overflow-wrap: anywhere;
   }
 
   .App:lang(zh) .brand-hero-copy h1 {
-    font-size: clamp(2.45rem, 12.6vw, 3.55rem);
+    font-size: clamp(2.2rem, 10.6vw, 3.05rem);
     line-height: 1.16;
     font-weight: 400;
+  }
+
+  .brand-hero-copy p:last-child {
+    max-width: 100%;
+    font-size: 0.95rem;
+    line-height: 1.75;
+    overflow-wrap: break-word;
+  }
+
+  .brand-hero-specs {
+    margin-top: 1.35rem;
+  }
+
+  .brand-hero-specs span {
+    flex-basis: 50%;
+    min-width: 0;
+    padding: 0.7rem 0.65rem;
+    font-size: 0.66rem;
+    overflow-wrap: anywhere;
   }
 
   .App:lang(ja) .brand-hero-copy h1 {
@@ -1114,6 +1140,10 @@ body {
     grid-row: auto;
   }
 
+  .product-view-frame:last-child {
+    grid-column: span 2;
+  }
+
   .product-view-frame img {
     min-height: 190px;
     aspect-ratio: 1;
@@ -1123,9 +1153,31 @@ body {
     aspect-ratio: 4 / 3;
   }
 
+  .product-view-frame:last-child img {
+    aspect-ratio: 4 / 3;
+  }
+
   .brand-section-heading {
     gap: 1.2rem;
     margin-bottom: 2rem;
+  }
+
+  .brand-section-heading h2,
+  .lifestyle-copy h2,
+  .philosophy-copy h2 {
+    font-size: clamp(1.75rem, 9vw, 2.7rem);
+    line-height: 1.15;
+    overflow-wrap: break-word;
+  }
+
+  .category-tile div {
+    padding: 1.15rem;
+  }
+
+  .category-tile p,
+  .lifestyle-copy p:last-child,
+  .philosophy-copy p {
+    overflow-wrap: break-word;
   }
 
   .category-grid,
@@ -3193,7 +3245,7 @@ body {
 /* ===== Mobile Home Experience ===== */
 @media (max-width: 768px) {
   body {
-    background: #f3f2ee;
+    background: #20211f;
   }
 
   .navbar {

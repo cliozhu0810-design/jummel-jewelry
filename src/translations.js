@@ -13,44 +13,44 @@ export const translations = {
       hero: {
         kicker: 'JuMel / Industrial Silver System',
         title: 'Wear your own definition.',
-        subtitle: 'JuMel 不定义任何人，只做你的配件。从银戒指开始，用链条、齿轮、节点和边界，陪你在系统里保留自己的结构。',
+        subtitle: 'JuMel 不定义任何人。它只是贴近身体的一枚银色配件，在规则、目光和日常之间，提醒你仍然可以按自己的方式存在。',
         imageAlt: 'JuMel 工业感银戒指',
         specLabel: 'JuMel 品牌关键词',
         specs: ['925 SILVER', 'GENDERLESS', 'DAILY MECHANISM', 'TOKYO / SYSTEM']
       },
       collection: {
         kicker: 'Series language',
-        title: '不是分类名，而是一套首饰语言。',
+        title: '每一个系列，都是一种不被固定的方式。',
         items: [
           {
             code: 'CHAIN_01',
             title: 'CHAIN',
-            concept: 'connection / fluidity',
-            subtitle: '关于连接、关系和未完成的流动。适合链条、半开口、可连接和可变化的结构。',
+            concept: 'connection / relation',
+            subtitle: '有些关系不需要被扣死。CHAIN 保留一点松动，让连接也有自己的呼吸。',
             image: '/products/IMG_2073.jpg',
             alt: 'JuMel CHAIN 系列银戒指'
           },
           {
             code: 'GEAR_01',
             title: 'GEAR',
-            concept: 'system / movement',
-            subtitle: '关于机制、传动和咬合。即使身处系统，也可以保留自己的方向和节奏。',
+            concept: 'system / rhythm',
+            subtitle: '人也会被推入系统，像齿轮一样运转。GEAR 记住的是：转动之中，也可以有自己的节奏。',
             image: '/products/IMG_2078.jpg',
             alt: 'JuMel GEAR 系列银戒指'
           },
           {
             code: 'LATCH_01',
             title: 'LATCH',
-            concept: 'open / close',
-            subtitle: '关于开合、扣住和松开。把功能结构做成日常佩戴里的微小动作。',
+            concept: 'open / release',
+            subtitle: '有时需要扣住，有时需要松开。LATCH 把开合做成手上的小动作，也做成选择。',
             image: '/products/IMG_2082.jpg',
             alt: 'JuMel LATCH 系列银戒指'
           },
           {
             code: 'NODE_01',
             title: 'NODE',
-            concept: 'structure / point',
-            subtitle: '关于节点和支点。小而明确的银色结构，提醒佩戴者不必被外部秩序完全定义。',
+            concept: 'point / self',
+            subtitle: 'NODE 是一个小小的支点。不是为了被看见得很大声，而是为了不从自己身上消失。',
             image: '/products/IMG_2074.jpg',
             alt: 'JuMel NODE 系列银戒指'
           },
@@ -58,15 +58,15 @@ export const translations = {
             code: 'FRAME_01',
             title: 'FRAME',
             concept: 'boundary / outline',
-            subtitle: '关于边界、轮廓和留白。不是限制，而是让自己的形状更清楚。',
+            subtitle: '边界不是拒绝世界。FRAME 让轮廓变清楚，让你知道哪里是自己。',
             image: '/products/IMG_2080.jpg',
             alt: 'JuMel FRAME 系列银戒指'
           },
           {
             code: 'SIGNAL_01',
             title: 'SIGNAL',
-            concept: 'communication / mark',
-            subtitle: '关于信号、标记和表达。不用解释太多，也可以让手上的银色发出态度。',
+            concept: 'signal / mark',
+            subtitle: '不是所有态度都需要说出口。SIGNAL 像一个微弱但明确的标记，留在手上。',
             image: '/products/IMG_2076.jpg',
             alt: 'JuMel SIGNAL 系列银戒指'
           }
@@ -80,15 +80,15 @@ export const translations = {
       },
       lifestyle: {
         kicker: 'Visual system',
-        title: '工业结构中的情绪表达。',
-        description: 'JuMel 的首饰像小型零件，也像私人护符。技术图纸感、编号系统、银色反光和克制留白共同组成品牌视觉；产品本身保持轻、准、舒适，适合每天佩戴。',
+        title: '冷的结构里，也可以有热的心跳。',
+        description: 'JuMel 借用工业零件的语言，却不把人变成零件。线、扣、节点、齿状边缘，都是贴近身体的微小结构；它们安静、克制，也有自己的温度。',
         ariaLabel: 'JuMel 工业银饰视觉日志',
         imageAlt: 'JuMel 工业银饰视觉日志'
       },
       philosophy: {
         kicker: 'Brand story',
-        title: '在系统里，保留自己的结构。',
-        description: 'JuMel 来自一位女性工程师对首饰的理解：结构不是冰冷的，功能也可以有情绪。品牌不把任何人固定成某种性别、年龄、职业或身份，而是把银戒指做成一个安静的提醒：没有什么工作女生不适合，没有什么事情外国人就不可以。',
+        title: '身处系统，但不交出自己。',
+        description: 'JuMel 来自一位女性工程师对首饰的理解：结构不是冰冷的，功能也可以有情绪。它不替任何人命名，也不把佩戴者固定成某种性别、年龄、职业或身份。它只是每天陪在手上，提醒你：你可以被看见，也可以不被定义。',
         imageAlt: 'JuMel 工业银戒指细节',
         points: ['925 SILVER', 'GENDERLESS', 'ENGINEERED DETAILS', 'DAILY ARMOR']
       }
@@ -200,44 +200,44 @@ export const translations = {
       hero: {
         kicker: 'JuMel / Industrial Silver System',
         title: 'Wear your own definition.',
-        subtitle: 'JuMel is a jewelry brand beginning with silver rings. It does not soften itself for expectation or define the wearer in advance; through chains, gears, nodes, and frames, it turns personal structure into daily wear.',
+        subtitle: 'JuMel does not define anyone. It stays close to the body as a small silver component, a quiet reminder that even inside rules, routines, and other people’s eyes, you can still exist in your own way.',
         imageAlt: 'JuMel industrial silver ring',
         specLabel: 'JuMel brand keywords',
         specs: ['925 SILVER', 'GENDERLESS', 'DAILY MECHANISM', 'TOKYO / SYSTEM']
       },
       collection: {
         kicker: 'Series language',
-        title: 'Not category names. A jewelry language.',
+        title: 'Each series is a way of refusing to be fixed.',
         items: [
           {
             code: 'CHAIN_01',
             title: 'CHAIN',
-            concept: 'connection / fluidity',
-            subtitle: 'Connection, relation, and unfinished movement. Built for chains, open forms, links, and variable structures.',
+            concept: 'connection / relation',
+            subtitle: 'Some connections do not need to be locked shut. CHAIN leaves room for breath, movement, and relation.',
             image: '/products/IMG_2073.jpg',
             alt: 'JuMel CHAIN silver ring'
           },
           {
             code: 'GEAR_01',
             title: 'GEAR',
-            concept: 'system / movement',
-            subtitle: 'Mechanism, transmission, and motion. Even inside a system, the wearer keeps their own rhythm.',
+            concept: 'system / rhythm',
+            subtitle: 'A person can be pushed into a system and made to turn. GEAR remembers that movement can still have its own rhythm.',
             image: '/products/IMG_2078.jpg',
             alt: 'JuMel GEAR silver ring'
           },
           {
             code: 'LATCH_01',
             title: 'LATCH',
-            concept: 'open / close',
-            subtitle: 'Open, close, hold, release. Functional gestures translated into pieces for daily wear.',
+            concept: 'open / release',
+            subtitle: 'Hold when you need to. Release when you choose to. LATCH turns function into a small gesture on the hand.',
             image: '/products/IMG_2082.jpg',
             alt: 'JuMel LATCH silver ring'
           },
           {
             code: 'NODE_01',
             title: 'NODE',
-            concept: 'structure / point',
-            subtitle: 'Small points of structure. A precise reminder that identity does not have to be assigned from outside.',
+            concept: 'point / self',
+            subtitle: 'NODE is a small point of support. It does not ask to be loud; it asks not to disappear.',
             image: '/products/IMG_2074.jpg',
             alt: 'JuMel NODE silver ring'
           },
@@ -245,15 +245,15 @@ export const translations = {
             code: 'FRAME_01',
             title: 'FRAME',
             concept: 'boundary / outline',
-            subtitle: 'Boundary, outline, and negative space. Not a limit, but a way to make your shape clearer.',
+            subtitle: 'A boundary is not a refusal of the world. FRAME makes the outline clear enough to know where the self begins.',
             image: '/products/IMG_2080.jpg',
             alt: 'JuMel FRAME silver ring'
           },
           {
             code: 'SIGNAL_01',
             title: 'SIGNAL',
-            concept: 'communication / mark',
-            subtitle: 'Signals, marks, and quiet expression. Silver that speaks without needing to explain.',
+            concept: 'signal / mark',
+            subtitle: 'Not every attitude needs to be spoken. SIGNAL stays on the hand as a faint but certain mark.',
             image: '/products/IMG_2076.jpg',
             alt: 'JuMel SIGNAL silver ring'
           }
@@ -267,15 +267,15 @@ export const translations = {
       },
       lifestyle: {
         kicker: 'Visual system',
-        title: 'Emotional expression inside industrial structure.',
-        description: 'JuMel pieces behave like small components and private talismans. Technical drawing cues, serial numbers, silver reflection, and restrained space form the visual system; the objects stay light, precise, comfortable, and wearable every day.',
+        title: 'Even cold structure can hold a pulse.',
+        description: 'JuMel borrows the language of industrial parts without turning people into parts. Lines, latches, nodes, and toothed edges become small structures close to the body: quiet, restrained, and still warm.',
         ariaLabel: 'JuMel industrial silver jewelry visual journal',
         imageAlt: 'JuMel industrial silver jewelry visual journal'
       },
       philosophy: {
         kicker: 'Brand story',
-        title: 'Inside the system, keep your own structure.',
-        description: 'JuMel comes from a female engineer’s way of seeing jewelry: structure is not cold, and function can carry emotion. The brand does not fix anyone by gender, age, work, or origin. It makes silver rings as quiet reminders that no role gets to define what you can become.',
+        title: 'Inside the system, do not hand yourself over.',
+        description: 'JuMel comes from a female engineer’s way of seeing jewelry: structure is not cold, and function can carry emotion. It does not name the wearer by gender, age, work, or origin. It simply stays on the hand as a daily reminder: you can be visible without being defined.',
         imageAlt: 'JuMel industrial silver ring detail',
         points: ['925 SILVER', 'GENDERLESS', 'ENGINEERED DETAILS', 'DAILY ARMOR']
       }
@@ -387,44 +387,44 @@ export const translations = {
       hero: {
         kicker: 'JuMel / Industrial Silver System',
         title: 'Wear your own definition.',
-        subtitle: 'JuMelはシルバーリングから始まるジュエリーブランドです。甘さや固定された役割に寄せるのではなく、チェーン、ギア、ノード、フレームという構造を通して、自分の定義を日常に身につけます。',
+        subtitle: 'JuMelは誰かを定義するためのものではありません。身体に近い小さなシルバーのパーツとして、ルールや視線や日常の中でも、自分のあり方を手放さないために存在します。',
         imageAlt: 'JuMelのインダストリアルなシルバーリング',
         specLabel: 'JuMel ブランドキーワード',
         specs: ['925 SILVER', 'GENDERLESS', 'DAILY MECHANISM', 'TOKYO / SYSTEM']
       },
       collection: {
         kicker: 'Series language',
-        title: 'カテゴリー名ではなく、ジュエリーの言語。',
+        title: 'それぞれのシリーズは、固定されないための形。',
         items: [
           {
             code: 'CHAIN_01',
             title: 'CHAIN',
-            concept: 'connection / fluidity',
-            subtitle: 'つながり、関係、未完成の流れ。チェーン、開いた形、連結、変化する構造のためのシリーズ。',
+            concept: 'connection / relation',
+            subtitle: 'つながりは、いつも固く閉じる必要はありません。CHAINは余白を残し、関係に呼吸を与えます。',
             image: '/products/IMG_2073.jpg',
             alt: 'JuMel CHAIN シルバーリング'
           },
           {
             code: 'GEAR_01',
             title: 'GEAR',
-            concept: 'system / movement',
-            subtitle: '機構、伝達、動き。システムの中にいても、自分のリズムと方向を保つために。',
+            concept: 'system / rhythm',
+            subtitle: '人は時に、システムの中で回されるギアのようになります。GEARは、その中にも自分のリズムがあることを覚えています。',
             image: '/products/IMG_2078.jpg',
             alt: 'JuMel GEAR シルバーリング'
           },
           {
             code: 'LATCH_01',
             title: 'LATCH',
-            concept: 'open / close',
-            subtitle: '開く、閉じる、留める、ほどく。機能の動作を日常のジュエリーに変換します。',
+            concept: 'open / release',
+            subtitle: '留めることも、ほどくことも選べる。LATCHは機能を、手元の小さな意思に変えます。',
             image: '/products/IMG_2082.jpg',
             alt: 'JuMel LATCH シルバーリング'
           },
           {
             code: 'NODE_01',
             title: 'NODE',
-            concept: 'structure / point',
-            subtitle: '小さな支点と構造。外側の秩序だけで自分が決まるわけではない、という静かなサイン。',
+            concept: 'point / self',
+            subtitle: 'NODEは小さな支点です。大きな声ではなく、自分が消えないための静かな印。',
             image: '/products/IMG_2074.jpg',
             alt: 'JuMel NODE シルバーリング'
           },
@@ -432,15 +432,15 @@ export const translations = {
             code: 'FRAME_01',
             title: 'FRAME',
             concept: 'boundary / outline',
-            subtitle: '境界、輪郭、余白。制限ではなく、自分の形をより明確にするためのフレーム。',
+            subtitle: '境界は世界を拒むものではありません。FRAMEは、自分の輪郭を静かに明確にします。',
             image: '/products/IMG_2080.jpg',
             alt: 'JuMel FRAME シルバーリング'
           },
           {
             code: 'SIGNAL_01',
             title: 'SIGNAL',
-            concept: 'communication / mark',
-            subtitle: '信号、印、静かな表現。多くを説明しなくても、手元のシルバーが態度を伝えます。',
+            concept: 'signal / mark',
+            subtitle: 'すべての態度を言葉にしなくてもいい。SIGNALは手元に残る、かすかで確かな印です。',
             image: '/products/IMG_2076.jpg',
             alt: 'JuMel SIGNAL シルバーリング'
           }
@@ -454,15 +454,15 @@ export const translations = {
       },
       lifestyle: {
         kicker: 'Visual system',
-        title: 'インダストリアルな構造の中にある感情表現。',
-        description: 'JuMelのジュエリーは小さな部品であり、個人的なお守りでもあります。図面のような視覚、番号、シルバーの反射、抑制された余白で世界観をつくり、製品は軽く、正確で、毎日身につけやすく保ちます。',
+        title: '冷たい構造の中にも、体温は残る。',
+        description: 'JuMelは工業部品の言語を借りていますが、人を部品にするためではありません。線、留め具、ノード、歯のような縁は、身体に近い小さな構造になります。静かで、抑制されていて、それでも温度があります。',
         ariaLabel: 'JuMelインダストリアルシルバージュエリーのビジュアルジャーナル',
         imageAlt: 'JuMelインダストリアルシルバージュエリーのビジュアルジャーナル'
       },
       philosophy: {
         kicker: 'Brand story',
-        title: 'システムの中で、自分の構造を保つ。',
-        description: 'JuMelは、女性エンジニアの視点から生まれたジュエリーです。構造は冷たいものではなく、機能にも感情を宿すことができます。性別、年齢、職業、出身で人を固定せず、自分の可能性を他人の定義に預けないための静かなシルバーリングをつくります。',
+        title: 'システムの中で、自分を手放さない。',
+        description: 'JuMelは、女性エンジニアの視点から生まれたジュエリーです。構造は冷たいものではなく、機能にも感情を宿すことができます。性別、年齢、職業、出身で人を名づけず、手元に残る静かなシルバーとして、自分を定義されないための小さな合図になります。',
         imageAlt: 'JuMelのインダストリアルシルバーリングのディテール',
         points: ['925 SILVER', 'GENDERLESS', 'ENGINEERED DETAILS', 'DAILY ARMOR']
       }
