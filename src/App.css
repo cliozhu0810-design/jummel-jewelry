@@ -23,6 +23,15 @@ body {
   overflow-x: hidden;
 }
 
+html,
+body,
+#root,
+.App {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 .App {
   min-height: 100vh;
 }
@@ -1168,6 +1177,13 @@ body {
     font-size: clamp(1.75rem, 9vw, 2.7rem);
     line-height: 1.15;
     overflow-wrap: break-word;
+  }
+
+  .App:lang(ja) .brand-section-heading h2,
+  .App:lang(ja) .lifestyle-copy h2,
+  .App:lang(ja) .philosophy-copy h2 {
+    word-break: normal;
+    overflow-wrap: anywhere;
   }
 
   .category-tile div {
