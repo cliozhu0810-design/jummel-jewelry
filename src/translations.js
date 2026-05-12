@@ -200,20 +200,20 @@ export const translations = {
       hero: {
         kicker: 'JuMel / Industrial Silver System',
         title: 'Wear your own definition.',
-        subtitle: 'JuMel does not define anyone. It stays close to the body as a small silver component, a quiet reminder that even inside rules, routines, and other people’s eyes, you can still exist in your own way.',
+        subtitle: 'JuMel is not here to label you. Worn close to the body, each silver piece becomes a quiet signal: within routines, rules, and the gaze of others, your way of being is still yours.',
         imageAlt: 'JuMel industrial silver ring',
         specLabel: 'JuMel brand keywords',
         specs: ['925 SILVER', 'GENDERLESS', 'DAILY MECHANISM', 'TOKYO / SYSTEM']
       },
       collection: {
         kicker: 'Series language',
-        title: 'Each series is a way of refusing to be fixed.',
+        title: 'Six ways to stay undefined.',
         items: [
           {
             code: 'CHAIN_01',
             title: 'CHAIN',
             concept: 'connection / relation',
-            subtitle: 'Some connections do not need to be locked shut. CHAIN leaves room for breath, movement, and relation.',
+            subtitle: 'Connection does not have to mean closure. CHAIN keeps a little space between things, so relation can still move and breathe.',
             image: '/products/IMG_2073.jpg',
             alt: 'JuMel CHAIN silver ring'
           },
@@ -221,7 +221,7 @@ export const translations = {
             code: 'GEAR_01',
             title: 'GEAR',
             concept: 'system / rhythm',
-            subtitle: 'A person can be pushed into a system and made to turn. GEAR remembers that movement can still have its own rhythm.',
+            subtitle: 'Systems move us. GEAR holds onto the rhythm that remains your own, even when the mechanism keeps turning.',
             image: '/products/IMG_2078.jpg',
             alt: 'JuMel GEAR silver ring'
           },
@@ -229,7 +229,7 @@ export const translations = {
             code: 'LATCH_01',
             title: 'LATCH',
             concept: 'open / release',
-            subtitle: 'Hold when you need to. Release when you choose to. LATCH turns function into a small gesture on the hand.',
+            subtitle: 'Fasten, release, decide again. LATCH makes opening and closing feel like a choice held in the hand.',
             image: '/products/IMG_2082.jpg',
             alt: 'JuMel LATCH silver ring'
           },
@@ -237,7 +237,7 @@ export const translations = {
             code: 'NODE_01',
             title: 'NODE',
             concept: 'point / self',
-            subtitle: 'NODE is a small point of support. It does not ask to be loud; it asks not to disappear.',
+            subtitle: 'NODE is a small point of return. Quiet, compact, and present enough to keep the self from slipping out of view.',
             image: '/products/IMG_2074.jpg',
             alt: 'JuMel NODE silver ring'
           },
@@ -245,7 +245,7 @@ export const translations = {
             code: 'FRAME_01',
             title: 'FRAME',
             concept: 'boundary / outline',
-            subtitle: 'A boundary is not a refusal of the world. FRAME makes the outline clear enough to know where the self begins.',
+            subtitle: 'A boundary is not a wall. FRAME gives the self an outline, clear enough to know where you begin.',
             image: '/products/IMG_2080.jpg',
             alt: 'JuMel FRAME silver ring'
           },
@@ -253,7 +253,7 @@ export const translations = {
             code: 'SIGNAL_01',
             title: 'SIGNAL',
             concept: 'signal / mark',
-            subtitle: 'Not every attitude needs to be spoken. SIGNAL stays on the hand as a faint but certain mark.',
+            subtitle: 'Some attitudes do not need volume. SIGNAL rests on the hand as a subtle mark with a certain edge.',
             image: '/products/IMG_2076.jpg',
             alt: 'JuMel SIGNAL silver ring'
           }
@@ -261,60 +261,60 @@ export const translations = {
       },
       productView: {
         kicker: 'Product view',
-        title: 'See the piece first.',
+        title: 'Look at the object before the story.',
         ariaLabel: 'JuMel product view',
         imageAlt: 'JuMel silver ring product image'
       },
       lifestyle: {
         kicker: 'Visual system',
-        title: 'Even cold structure can hold a pulse.',
-        description: 'JuMel borrows the language of industrial parts without turning people into parts. Lines, latches, nodes, and toothed edges become small structures close to the body: quiet, restrained, and still warm.',
+        title: 'Structure can still carry heat.',
+        description: 'JuMel borrows from industrial forms without making the body feel mechanical. Lines, latches, nodes, and toothed edges become small structures for daily wear: controlled, quiet, and still alive.',
         ariaLabel: 'JuMel industrial silver jewelry visual journal',
         imageAlt: 'JuMel industrial silver jewelry visual journal'
       },
       philosophy: {
         kicker: 'Brand story',
-        title: 'Inside the system, do not hand yourself over.',
-        description: 'JuMel comes from a female engineer’s way of seeing jewelry: structure is not cold, and function can carry emotion. It does not name the wearer by gender, age, work, or origin. It simply stays on the hand as a daily reminder: you can be visible without being defined.',
+        title: 'Live in the system. Keep the self.',
+        description: 'JuMel began with a female engineer’s way of looking at jewelry. Structure does not have to feel cold; function can hold emotion. The wearer is not reduced to gender, age, work, or origin. The piece simply stays close, a daily reminder that being seen does not mean being defined.',
         imageAlt: 'JuMel industrial silver ring detail',
         points: ['925 SILVER', 'GENDERLESS', 'ENGINEERED DETAILS', 'DAILY ARMOR']
       }
     },
     // Hero Section
     hero: {
-      title: 'Pure Silver Beauty, Crafted with Care',
-      subtitle: 'JuMel - Where Every Ring is a Perfect Fusion of Art and Technology',
+      title: 'Silver with a point of view',
+      subtitle: 'JuMel creates engineered silver jewelry for people who choose their own outline.',
       cta: 'Explore Collection',
       placeholder: 'Exquisite Silver Ring Image'
     },
     // AI Section
     ai: {
-      title: 'AI-Powered Silver Jewelry Aesthetics',
-      subtitle: 'Combining artificial intelligence with traditional craftsmanship to present a unique silver jewelry experience',
+      title: 'Designed with precision, finished by hand',
+      subtitle: 'Digital tools help shape the details. Human craft gives each piece its final tension and touch.',
       features: {
         design: {
-          title: 'Smart Design',
-          description: 'AI-assisted design system that captures every detail precisely, making each piece shine with unique brilliance'
+          title: 'Measured detail',
+          description: 'Digital design helps refine proportion, spacing, and structure before the piece reaches the hand.'
         },
         pricing: {
-          title: 'Smart Pricing',
-          description: 'Real-time market analysis ensures you get the best value for high-quality silver jewelry, transparent and fair'
+          title: 'Clear value',
+          description: 'Materials, finish, and production are considered with transparency, so the price feels grounded.'
         },
         experience: {
-          title: 'Lightning Fast',
-          description: 'From browsing to checkout, a silky smooth shopping experience powered by M4 chip, every frame is a pleasure'
+          title: 'Smooth purchase',
+          description: 'A direct path from browsing to checkout, with the focus kept on the piece itself.'
         },
         collection: {
-          title: 'Curated Selection',
-          description: 'Every silver ring is carefully selected to present the purest beauty of silver jewelry'
+          title: 'Edited collection',
+          description: 'Each ring is selected for shape, weight, and presence rather than decoration alone.'
         }
       }
     },
     // Brand Story
     story: {
       title: 'The JuMel Story',
-      paragraph1: 'JuMel stems from the ultimate pursuit of pure silver beauty. We believe that every ring carries a unique story, and every wear is a commemoration of beautiful moments.',
-      paragraph2: 'Through the perfect combination of AI technology and traditional craftsmanship, we provide personalized silver jewelry experiences for every customer, empowering aesthetics with technology and making art accessible.',
+      paragraph1: 'JuMel grew from a fascination with silver as both material and signal. A ring can be small, but it can still change how the hand feels in the world.',
+      paragraph2: 'By combining digital design with traditional finishing, JuMel creates pieces that feel precise without losing their human temperature.',
       placeholder: 'Brand Story Image'
     },
     // Footer
@@ -344,21 +344,21 @@ export const translations = {
     product: {
       productCode: 'Product Code',
       productName: 'JuMel Silver Ring Collection',
-      description: 'Product Description',
-      descriptionText: 'Crafted from premium 925 sterling silver, combining AI-assisted design with traditional craftsmanship. Each ring undergoes rigorous quality testing to ensure you receive the purest beauty of silver jewelry.',
+      description: 'Details',
+      descriptionText: 'Made in 925 sterling silver, each JuMel ring balances engineered structure with hand-finished detail. The result is clean, wearable, and quietly assertive.',
       features: {
         material: '925 Sterling Silver',
-        design: 'AI Smart Design',
-        craft: 'Hand-Polished',
-        warranty: 'Lifetime Warranty'
+        design: 'Digitally Refined Form',
+        craft: 'Hand-Finished Surface',
+        warranty: 'Aftercare Support'
       },
       size: 'Size',
       addToCart: 'Add to Cart',
       relatedProducts: 'Related Products',
       productFeatures: {
-        shipping: { title: 'Free Shipping', desc: 'Nationwide' },
-        returns: { title: '7-Day Returns', desc: 'No Questions Asked' },
-        authentic: { title: 'Authentic', desc: '100% Sterling Silver' }
+        shipping: { title: 'Free Shipping', desc: 'Available nationwide' },
+        returns: { title: '7-Day Returns', desc: 'Simple return process' },
+        authentic: { title: 'Sterling Silver', desc: '925 silver material' }
       }
     },
     // Shopping Cart
@@ -387,20 +387,20 @@ export const translations = {
       hero: {
         kicker: 'JuMel / Industrial Silver System',
         title: 'Wear your own definition.',
-        subtitle: 'JuMelは誰かを定義するためのものではありません。身体に近い小さなシルバーのパーツとして、ルールや視線や日常の中でも、自分のあり方を手放さないために存在します。',
+        subtitle: 'JuMelは、誰かを説明するためのアクセサリーではありません。身体に近いシルバーのかたちとして、ルールや視線や日常の中でも、自分の輪郭を手放さないためにあります。',
         imageAlt: 'JuMelのインダストリアルなシルバーリング',
         specLabel: 'JuMel ブランドキーワード',
         specs: ['925 SILVER', 'GENDERLESS', 'DAILY MECHANISM', 'TOKYO / SYSTEM']
       },
       collection: {
         kicker: 'Series language',
-        title: 'それぞれのシリーズは、固定されないための形。',
+        title: '定義されないための、6つのかたち。',
         items: [
           {
             code: 'CHAIN_01',
             title: 'CHAIN',
             concept: 'connection / relation',
-            subtitle: 'つながりは、いつも固く閉じる必要はありません。CHAINは余白を残し、関係に呼吸を与えます。',
+            subtitle: 'つながることは、閉じることとは少し違う。CHAINは余白を残し、関係が呼吸できる距離をつくります。',
             image: '/products/IMG_2073.jpg',
             alt: 'JuMel CHAIN シルバーリング'
           },
@@ -408,7 +408,7 @@ export const translations = {
             code: 'GEAR_01',
             title: 'GEAR',
             concept: 'system / rhythm',
-            subtitle: '人は時に、システムの中で回されるギアのようになります。GEARは、その中にも自分のリズムがあることを覚えています。',
+            subtitle: 'システムは人を動かします。GEARは、その回転の中に残る、自分だけのリズムを忘れないためのかたちです。',
             image: '/products/IMG_2078.jpg',
             alt: 'JuMel GEAR シルバーリング'
           },
@@ -416,7 +416,7 @@ export const translations = {
             code: 'LATCH_01',
             title: 'LATCH',
             concept: 'open / release',
-            subtitle: '留めることも、ほどくことも選べる。LATCHは機能を、手元の小さな意思に変えます。',
+            subtitle: '留める。ほどく。もう一度選ぶ。LATCHは開閉という機能を、手元の小さな意思に変えます。',
             image: '/products/IMG_2082.jpg',
             alt: 'JuMel LATCH シルバーリング'
           },
@@ -424,7 +424,7 @@ export const translations = {
             code: 'NODE_01',
             title: 'NODE',
             concept: 'point / self',
-            subtitle: 'NODEは小さな支点です。大きな声ではなく、自分が消えないための静かな印。',
+            subtitle: 'NODEは、戻ってこられる小さな支点。主張しすぎず、それでも自分が消えないための静かな印です。',
             image: '/products/IMG_2074.jpg',
             alt: 'JuMel NODE シルバーリング'
           },
@@ -432,7 +432,7 @@ export const translations = {
             code: 'FRAME_01',
             title: 'FRAME',
             concept: 'boundary / outline',
-            subtitle: '境界は世界を拒むものではありません。FRAMEは、自分の輪郭を静かに明確にします。',
+            subtitle: '境界は、世界を拒むためだけにあるのではありません。FRAMEは、自分がどこから始まるのかを静かに示します。',
             image: '/products/IMG_2080.jpg',
             alt: 'JuMel FRAME シルバーリング'
           },
@@ -440,7 +440,7 @@ export const translations = {
             code: 'SIGNAL_01',
             title: 'SIGNAL',
             concept: 'signal / mark',
-            subtitle: 'すべての態度を言葉にしなくてもいい。SIGNALは手元に残る、かすかで確かな印です。',
+            subtitle: 'すべての態度を言葉にしなくてもいい。SIGNALは、手元に残るかすかな印であり、確かなエッジです。',
             image: '/products/IMG_2076.jpg',
             alt: 'JuMel SIGNAL シルバーリング'
           }
@@ -448,60 +448,60 @@ export const translations = {
       },
       productView: {
         kicker: 'Product view',
-        title: 'まず、ジュエリーそのものを見る。',
+        title: '物語の前に、まずかたちを見る。',
         ariaLabel: 'JuMelの商品ビュー',
         imageAlt: 'JuMelシルバーリングの商品写真'
       },
       lifestyle: {
         kicker: 'Visual system',
-        title: '冷たい構造の中にも、体温は残る。',
-        description: 'JuMelは工業部品の言語を借りていますが、人を部品にするためではありません。線、留め具、ノード、歯のような縁は、身体に近い小さな構造になります。静かで、抑制されていて、それでも温度があります。',
+        title: '構造にも、体温は宿る。',
+        description: 'JuMelはインダストリアルな造形を手がかりにしながら、身体を機械の一部にはしません。線、留め具、ノード、歯のような縁は、日常に寄り添う小さな構造になります。静かで、抑制されていて、それでも生きているものとして。',
         ariaLabel: 'JuMelインダストリアルシルバージュエリーのビジュアルジャーナル',
         imageAlt: 'JuMelインダストリアルシルバージュエリーのビジュアルジャーナル'
       },
       philosophy: {
         kicker: 'Brand story',
         title: 'システムの中で、自分を手放さない。',
-        description: 'JuMelは、女性エンジニアの視点から生まれたジュエリーです。構造は冷たいものではなく、機能にも感情を宿すことができます。性別、年齢、職業、出身で人を名づけず、手元に残る静かなシルバーとして、自分を定義されないための小さな合図になります。',
+        description: 'JuMelは、女性エンジニアの視点から生まれました。構造は冷たいだけのものではなく、機能にも感情を宿すことができる。性別、年齢、職業、出身で身につける人を決めつけず、手元に残る静かなシルバーとして、「見られること」と「定義されること」のあいだに小さな余白をつくります。',
         imageAlt: 'JuMelのインダストリアルシルバーリングのディテール',
         points: ['925 SILVER', 'GENDERLESS', 'ENGINEERED DETAILS', 'DAILY ARMOR']
       }
     },
     // ヒーローセクション
     hero: {
-      title: '純銀の美、匠の技',
-      subtitle: 'JuMel - すべての指輪は、芸術とテクノロジーの完璧な融合',
+      title: '輪郭を持ったシルバー',
+      subtitle: 'JuMelは、自分のかたちを選ぶ人のためのエンジニアード・シルバージュエリーです。',
       cta: 'コレクションを見る',
       placeholder: '美しいシルバーリング画像'
     },
     // AIセクション
     ai: {
-      title: 'AIが実現するシルバージュエリーの美学',
-      subtitle: '人工知能と伝統工芸を融合し、唯一無二のシルバージュエリー体験を提供',
+      title: '精密に設計し、手で仕上げる',
+      subtitle: 'デジタルツールで細部を整え、最後の緊張感と手ざわりは人の手で仕上げます。',
       features: {
         design: {
-          title: 'スマートデザイン',
-          description: 'AI支援デザインシステムが細部まで正確に捉え、すべての作品に独特の輝きを与えます'
+          title: '測られたディテール',
+          description: '比率、間隔、構造をデジタルで検討し、手に届く前のかたちを丁寧に整えます。'
         },
         pricing: {
-          title: 'スマート価格設定',
-          description: 'リアルタイム市場分析により、高品質なシルバージュエリーを最高のコストパフォーマンスで、透明かつ公正に提供'
+          title: '納得できる価値',
+          description: '素材、仕上げ、制作工程をきちんと見つめ、価格にも透明感を持たせます。'
         },
         experience: {
-          title: '超高速体験',
-          description: '閲覧から購入まで、シルクのように滑らかなショッピング体験。M4チップの力で、すべてのフレームが楽しみに'
+          title: '迷わない購入体験',
+          description: '見る、選ぶ、購入する。その流れをシンプルに保ち、主役をジュエリーそのものに戻します。'
         },
         collection: {
-          title: '厳選コレクション',
-          description: 'すべてのシルバーリングは厳格に選別され、最も純粋なシルバージュエリーの美しさを表現'
+          title: '編集されたコレクション',
+          description: '装飾だけではなく、かたち、重さ、手元での存在感を基準に選んでいます。'
         }
       }
     },
     // ブランドストーリー
     story: {
       title: 'JuMelの物語',
-      paragraph1: 'JuMelは、純銀の美への究極の追求から生まれました。私たちは、すべての指輪が独特の物語を持ち、すべての着用が美しい瞬間の記念であると信じています。',
-      paragraph2: 'AI技術と伝統工芸の完璧な組み合わせにより、すべてのお客様にパーソナライズされたシルバージュエリー体験を提供し、テクノロジーで美学を強化し、芸術を身近なものにします。',
+      paragraph1: 'JuMelは、素材としてのシルバーと、サインとしてのシルバーへの関心から始まりました。小さなリングでも、手元と世界の関係を少し変えることができます。',
+      paragraph2: 'デジタル設計と手仕事の仕上げを組み合わせることで、精密でありながら体温を失わないジュエリーをつくります。',
       placeholder: 'ブランドストーリー画像'
     },
     // フッター
@@ -531,21 +531,21 @@ export const translations = {
     product: {
       productCode: '商品番号',
       productName: 'JuMel シルバーリングコレクション',
-      description: '商品説明',
-      descriptionText: '厳選された925スターリングシルバーで作られ、AI支援デザインと伝統工芸の完璧な組み合わせ。すべてのリングは厳格な品質検査を経て、最も純粋なシルバージュエリーの美しさをお届けします。',
+      description: 'ディテール',
+      descriptionText: '925スターリングシルバーを使用し、構造的なフォルムと手仕上げのディテールを両立させたJuMelのリング。クリーンで身につけやすく、静かな強さを持つ一点です。',
       features: {
         material: '925スターリングシルバー',
-        design: 'AIスマートデザイン',
-        craft: '手作業による精密研磨',
-        warranty: '生涯保証'
+        design: 'デジタルで整えたフォルム',
+        craft: '手仕上げの表面',
+        warranty: 'アフターケア対応'
       },
       size: 'サイズ',
       addToCart: 'カートに追加',
       relatedProducts: '関連商品',
       productFeatures: {
-        shipping: { title: '送料無料', desc: '全国配送' },
-        returns: { title: '7日間返品', desc: '理由不要' },
-        authentic: { title: '正規品保証', desc: '100%スターリングシルバー' }
+        shipping: { title: '送料無料', desc: '全国配送に対応' },
+        returns: { title: '7日間返品', desc: 'シンプルな返品手続き' },
+        authentic: { title: 'スターリングシルバー', desc: '925シルバー素材' }
       }
     },
     // ショッピングカート
